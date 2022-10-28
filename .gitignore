@@ -1,2 +1,2 @@
 .behaverc
-domino_tests.feature
+unit_tests.feature
